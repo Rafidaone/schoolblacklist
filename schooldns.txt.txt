@@ -12,7 +12,6 @@ useast-www.securly.com
 beacons.gcp.gvt2.com
 hl.hapara.com
 rc.hapara.com
-teacherdashboard.com	
 ep.learnplatform.com
 inquisition.goguardian.com
 ip.goguardian.com
