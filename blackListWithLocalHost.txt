@@ -17,3 +17,4 @@
 127.0.0.1 ip.goguardian.com
 127.0.0.1 snat.goguardian.com
 127.0.0.1 blocked.goguardian.com
+127.0.0.1 sslcheck.securly.com
