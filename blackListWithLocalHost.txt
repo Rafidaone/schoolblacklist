@@ -12,7 +12,6 @@
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 hl.hapara.com
 127.0.0.1 rc.hapara.com
-127.0.0.1 teacherdashboard.com	
 127.0.0.1 ep.learnplatform.com
 127.0.0.1 inquisition.goguardian.com
 127.0.0.1 ip.goguardian.com
